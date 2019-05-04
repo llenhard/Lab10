@@ -1,0 +1,7 @@
+C:\Users\Luke\Desktop\gc\in class\ListReview\ListReview\obj\Debug\ListReview.csprojAssemblyReference.cache
+C:\Users\Luke\Desktop\gc\in class\ListReview\ListReview\obj\Debug\ListReview.csproj.CoreCompileInputs.cache
+C:\Users\Luke\Desktop\gc\in class\ListReview\ListReview\bin\Debug\ListReview.exe.config
+C:\Users\Luke\Desktop\gc\in class\ListReview\ListReview\bin\Debug\ListReview.exe
+C:\Users\Luke\Desktop\gc\in class\ListReview\ListReview\bin\Debug\ListReview.pdb
+C:\Users\Luke\Desktop\gc\in class\ListReview\ListReview\obj\Debug\ListReview.exe
+C:\Users\Luke\Desktop\gc\in class\ListReview\ListReview\obj\Debug\ListReview.pdb
